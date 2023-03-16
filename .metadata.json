@@ -1,0 +1,14 @@
+[
+  {
+    "package": "RNOmni",
+    "oncran": true
+  },
+  {
+    "package": "SurrogateRegression",
+    "oncran": true
+  },
+  {
+    "package": "Temporal",
+    "oncran": true
+  }
+]
