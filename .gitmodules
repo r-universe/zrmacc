@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MGMM"]
+	path = MGMM
+	url = https://github.com/cran/MGMM
+	shallow = true
+	registered = true
+[submodule "PracticalEquiDesign"]
+	path = PracticalEquiDesign
+	url = https://github.com/cran/PracticalEquiDesign
+	shallow = true
+	registered = true
 [submodule "RNOmni"]
 	path = RNOmni
 	url = https://github.com/zrmacc/rnomni
