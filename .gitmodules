@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "MGMM"]
 	path = MGMM
-	url = https://github.com/cran/MGMM
+	url = https://github.com/zrmacc/mgmm
 	shallow = true
 	registered = true
 [submodule "PracticalEquiDesign"]
